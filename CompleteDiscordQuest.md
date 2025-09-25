@@ -173,30 +173,3 @@ if(!quest) {
 	}
 }");
 
-
-FAQ
-Q: Ctrl + Shift + I doesn't work
-
-A: Either download the ptb client, or use this to enable DevTools on stable
-
-Q: I get an error saying "Unauthorized"
-
-A: Discord has patched the script from working in browsers. Use the discord desktop app.
-
-They have also started checking how many people are in the vc, so make sure you join it on at least 1 other account.
-
-Q: I get a syntax error/unexpected token error
-
-A: Make sure your browser isn't auto-translating this website before copying the script. Turn off any translator extensions and try again.
-
-Q: I get a different error
-
-A: Make sure you're copy/pasting the script correctly and that you've have done all the steps.
-
-Q: Can you make the script auto accept the quest/reward?
-
-A: No. Both of those actions may show a captcha, so automating them is not a good idea. Just do the two clicks yourself.
-
-Q: Can you upload the standalone script to a repo and make this gist's code a one line fetch()?
-
-A: No. Doing that would put you at risk because I (or someone in my account) could change the underlying code to be malicious at any time, then forcepush it away later, and you'd never know
