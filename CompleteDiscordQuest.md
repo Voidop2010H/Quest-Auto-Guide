@@ -18,8 +18,7 @@
 <summary>Click to expand</summary>
 
 ```js
-// Example code block
-console.log("delete window.$;
+delete window.$;
 let wpRequire = webpackChunkdiscord_app.push([[Symbol()], {}, r => r]);
 webpackChunkdiscord_app.pop();
 
@@ -171,5 +170,16 @@ if(!quest) {
 		}
 		fn()
 	}
-}");
+}
 
+</detils>
+
+Follow the printed instructions depending on what type of quest you have
+
+If your quest says to play the game, you can just wait and do nothing
+
+If your quest says to stream the game, join a VC with a friend or alt and stream any window
+
+Wait for 15 minutes
+
+You can now claim the reward in User Settings → Gift Inventory
